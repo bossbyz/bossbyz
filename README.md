@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bossbyz" alt="bossbyz" /></a> </p>
 
-- 🔭 I’m currently working on **Capx2**
+- 🔭 I’m currently working on **a property website**
 
 - 🌱 I’m currently learning **React, Django, Redux, Rxjs**
 
